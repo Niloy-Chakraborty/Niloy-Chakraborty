@@ -13,7 +13,7 @@ My Name is Niloy, and I am a Masters's student at the University of Stuttgart (I
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
       <a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
-    <img src="https://img.shields.io/badge/researchgate-%00CCBB.svg?&style=for-the-badge&logo=Research_Gaten&logoColor=green" />
+    <img src="https://img.shields.io/badge/Research_Gate-%00CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=green" />
   </a>&nbsp;&nbsp;
 
   
