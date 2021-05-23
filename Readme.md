@@ -55,7 +55,7 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 
 </p>
 
-Feel Free to contact me for any Colloborations 👯 of any other doubts 💬.
+Feel Free to contact me for any Colloborations 👯.
 
 <!--
 **adnanmushtaq1996/adnanmushtaq1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
