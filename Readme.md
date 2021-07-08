@@ -32,7 +32,7 @@ My Name is Niloy, and I am a Masters's student at the University of Stuttgart (I
 ## About Me  
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and Data Science in order to expand my skillset and gain more experience in life.
 
-- 🔭 I’m currently working on Fault Detection in Unmanned Aerial Vehicles using Deep Learning and Machine Learning.
+- 🔭 I’m currently working on Error Detection in Unmanned Aerial Vehicles using Deep Learning.
 - 📫 You can reach me [here](https://www.linkedin.com/in/niloy-chakraborty/) with LinkedIn.
 
 
