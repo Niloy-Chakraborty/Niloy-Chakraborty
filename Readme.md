@@ -1,19 +1,35 @@
 # Hey there 👋 !!
 My Name is Niloy, and I am a Masters's student at the University of Stuttgart (Infotech - Computer Science and Electrical Engineering).
 
-
 ## Reach Out to Me
 <p>
   
 
-  <a href="https://github.com/Niloy-Chakraborty/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  <a href="chakrabortyniloy2018@gmail.com />
+<!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/niloy-chakraborty/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
       <a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ -->
+  
+</p>
+
+## Projects/ Publications/ Profile
+<p>
+  
+
+  <a href="https://github.com/Niloy-Chakraborty/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
+    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/niloy-chakraborty/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
   
