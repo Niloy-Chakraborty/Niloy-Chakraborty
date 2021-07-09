@@ -1,5 +1,5 @@
 # Hey there 👋 !!
-My Name is Niloy, and I am a Masters's student at the University of Stuttgart (Infotech - Computer Science and Electrical Engineering).
+I am Niloy Chakraborty, and currently, I am pursuing my MSc. in Information Technology at the University of Stuttgart. I am a highly motivated and goal-oriented professional with over 2 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
 
 ## Reach Out to Me
 <p>
@@ -43,7 +43,7 @@ My Name is Niloy, and I am a Masters's student at the University of Stuttgart (I
 
 
 
-## About Me  
+## Current Status 
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and Data Science in order to expand my skillset and gain more experience in life.
 
 - 🔭 I’m currently working on Error Detection in Unmanned Aerial Vehicles using Deep Learning.
