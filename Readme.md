@@ -3,9 +3,7 @@ My Name is Niloy, and I am a Masters's student at the University of Stuttgart (I
 
 ## Reach Out to Me
 <p>
-  
-
-  <a href="chakrabortyniloy2018@gmail.com />
+ Email: chakrabortyniloy2018@gmail.com
 <!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/niloy-chakraborty/">
