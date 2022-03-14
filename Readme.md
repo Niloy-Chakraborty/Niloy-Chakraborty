@@ -1,7 +1,7 @@
 # Hey there 👋 !!
 I am Niloy Chakraborty, and currently, I am pursuing my MSc. in Information Technology at the University of Stuttgart. I am a highly motivated and goal-oriented professional with over 2 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
+![GitHub Repo stars](https://github.com/Niloy-Chakraborty)
 
 
 ## Reach Out to Me
