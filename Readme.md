@@ -1,7 +1,7 @@
 # Hey there 👋 !!
-I am Niloy Chakraborty, and currently, I am pursuing my MSc. in Information Technology at the University of Stuttgart. I am a highly motivated and goal-oriented professional with over 2 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
+I am Niloy Chakraborty, and currently, I working as a Data Scientist at the SenseGuard GmbH (a part of LIXIL group) and responsible for data analysis and building efficient DL/ML based solutions. I am a highly motivated and goal-oriented professional with over 5 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
 
-![GitHub Repo stars](https://github.com/Niloy-Chakraborty)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niloy-Chakraborty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Reach Out to Me
@@ -78,19 +78,3 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 
 </p>
 
-Feel Free to contact me for any Collaborations 👯.
-
-<!--
-**adnanmushtaq1996/adnanmushtaq1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
