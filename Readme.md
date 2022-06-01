@@ -55,10 +55,8 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 
  ## 💻 Langauges & Tools I love Coding In !
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Chakraborty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Chakraborty&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
- 
- 
 <p align='center'>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
