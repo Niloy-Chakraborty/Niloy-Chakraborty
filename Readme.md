@@ -47,9 +47,9 @@ I am Niloy Chakraborty, and currently, I working as a Data Scientist at the Sens
 
 
 ## Current Status 
-I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and Data Science in order to expand my skillset and gain more experience in life.
+Preparing for AWS certifications.
+Working as a Data Scientist, always open for new collaboration :)
 
-- 🔭 I’m currently working on Error Detection in Unmanned Aerial Vehicles using Deep Learning.
 - 📫 You can reach me [here](https://www.linkedin.com/in/niloy-chakraborty/) with LinkedIn.
 
 
