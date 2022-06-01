@@ -47,8 +47,9 @@ I am Niloy Chakraborty, and currently, I working as a Data Scientist at the Sens
 
 
 ## Current Status 
-Preparing for AWS certifications.
-Working as a Data Scientist, always open for new collaboration :)
+- Preparing for AWS certifications.
+
+- Working as a Data Scientist, always open for new collaboration :)
 
 - 📫 You can reach me [here](https://www.linkedin.com/in/niloy-chakraborty/) with LinkedIn.
 
