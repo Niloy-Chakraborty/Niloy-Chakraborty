@@ -1,82 +1,251 @@
-# Hey there 👋 !!
-I am Niloy Chakraborty, and currently, I working as a Data Scientist at the SenseGuard GmbH (a part of LIXIL group) and responsible for data analysis and building efficient DL/ML based solutions. I am a motivated and goal-oriented professional with over 6 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
+<div align="center">
 
+# 👋 Hi, I'm Niloy Chakraborty
 
-## Reach Out to Me
-<p>
- Email: chakrabortyniloy2018@gmail.com
-<!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/niloy-chakraborty/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-      <a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
-    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
-  </a>&nbsp;&nbsp;
- -->
-  
-</p>
+### Senior Data Scientist @ SenseGuard GmbH (LIXIL Group)
 
-## Projects/ Publications/ Profile
-<p>
-  
+**Machine Learning • Generative AI • Computer Vision • IoT Analytics • AWS**
 
-  <a href="https://github.com/Niloy-Chakraborty/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-    <a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
-    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/niloy-chakraborty/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Data+Scientist;Building+Production+AI+Systems;Computer+Vision+%7C+GenAI+%7C+AWS;IoT+Analytics+%7C+MLOps;Turning+Data+Into+Business+Impact" />
 
-  
-</p>
+<br>
 
+<a href="mailto:chakrabortyniloy2018@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 💻 Preferred Operating Systems
-<p >
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<a href="https://www.linkedin.com/in/niloy-chakraborty/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://github.com/Niloy-Chakraborty">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
 
+</div>
 
-## Current Status 
-- Preparing for AWS certifications.
+---
 
-- Working as a Data Scientist, always open for new collaboration :)
+## 🚀 About Me
 
-- 📫 You can reach me [here](https://www.linkedin.com/in/niloy-chakraborty/) with LinkedIn.
+I am a **Senior Data Scientist** with **6+ years of professional experience** developing and deploying Machine Learning and Deep Learning solutions.
 
+Currently working at **SenseGuard GmbH (LIXIL Group)**, where I build intelligent analytics systems for smart water infrastructure using Machine Learning, Time Series Analytics, IoT data, and cloud-native AI solutions.
 
- ## 💻 Langauges & Tools I love Coding In !
- 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Chakraborty&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### Areas of Expertise
 
-<p align='center'>
+- 🤖 Machine Learning
+- 🧠 Generative AI & LLM Applications
+- 👁️ Computer Vision
+- 📈 Time Series Analytics
+- 🌊 Smart Meter Analytics
+- 🚀 MLOps & Model Deployment
+- ☁️ AWS Cloud Solutions
+- ⚡ Edge AI
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+---
 
+## 🛠 Tech Stack
 
-</p>
+### Programming & Data Science
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,mysql" />
+
+</div>
+
+---
+
+### AI / Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Time_Series-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Anomaly_Detection-FF6F00?style=for-the-badge"/>
+
+</div>
+
+---
+
+### Generative AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-FF5722?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_Databases-1F6FEB?style=for-the-badge"/>
+
+</div>
+
+---
+
+### Cloud & MLOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ML_Deployment-1E88E5?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🎯 What I Build
+
+| Domain | Focus |
+|----------|----------|
+| 🤖 Machine Learning | End-to-End Production ML Systems |
+| 🧠 Generative AI | RAG, AI Agents, LLM Applications |
+| 👁️ Computer Vision | Detection, Classification, Segmentation |
+| 📈 Time Series Analytics | Forecasting & Anomaly Detection |
+| 🌊 IoT Analytics | Smart Water Meter Intelligence |
+| ☁️ AWS Cloud | SageMaker, Lambda, S3 |
+| 🚀 MLOps | CI/CD, Monitoring, Deployment |
+
+---
+
+## 🌟 Featured Projects
+
+### 🌊 Smart Water Analytics
+
+Building machine learning solutions for:
+
+- Leakage Detection
+- Backflow Detection
+- Consumption Analytics
+- Sensor Intelligence
+
+### 👁️ Computer Vision Applications
+
+Developing deep learning pipelines for:
+
+- Image Classification
+- Object Detection
+- Industrial AI Systems
+
+### 🤖 Generative AI Applications
+
+Working on:
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangGraph Workflows
+- Enterprise Knowledge Systems
+
+### ☁️ Production AI Systems
+
+Designing:
+
+- AWS-based ML Infrastructure
+- Scalable Inference Services
+- MLOps Pipelines
+- Real-time Analytics Systems
+
+---
+
+## 📚 Publications
+
+<div align="center">
+
+<a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
+  <img src="https://img.shields.io/badge/View_Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Currently Learning
+
+```text
+☁️ AWS Solutions Architect
+🧠 Advanced LLM Systems
+🤖 Agentic AI Architectures
+🚀 MLOps Best Practices
+📊 Scalable AI Infrastructure
+```
+
+---
+
+## 🏆 Professional Highlights
+
+- ✅ 7+ Years of Industry Experience
+- ✅ Production ML & DL Deployments
+- ✅ Computer Vision Specialist
+- ✅ Smart Meter & IoT Analytics
+- ✅ AWS Cloud Deployments
+- ✅ Research Publications
+- ✅ Generative AI Applications
+
+---
+
+## 💻 Preferred Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,apple,windows,vscode" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:chakrabortyniloy2018@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niloy-chakraborty/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Niloy-Chakraborty">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building AI solutions that create real-world impact ⭐
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Niloy-Chakraborty&style=for-the-badge"/>
+
+</div>
