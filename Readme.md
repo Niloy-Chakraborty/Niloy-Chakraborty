@@ -32,7 +32,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior Data Scientist** with **6+ years of professional experience** developing and deploying Machine Learning and Deep Learning solutions.
+I am a **Expert Data Scientist** with **7+ years of professional experience** developing and deploying Machine Learning and Deep Learning solutions.
 
 Currently working at **SenseGuard GmbH (LIXIL Group)**, where I build intelligent analytics systems for smart water infrastructure using Machine Learning, Time Series Analytics, IoT data, and cloud-native AI solutions.
 
