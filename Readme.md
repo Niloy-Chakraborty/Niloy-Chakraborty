@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Niloy Chakraborty
 
-### Senior Data Scientist @ SenseGuard GmbH (LIXIL Group)
+### Expert Data Scientist @ SenseGuard GmbH (LIXIL Group)
 
 **Machine Learning • Generative AI • Computer Vision • IoT Analytics • AWS**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Data+Scientist;Building+Production+AI+Systems;Computer+Vision+%7C+GenAI+%7C+AWS;IoT+Analytics+%7C+MLOps;Turning+Data+Into+Business+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Expert+Data+Scientist;Building+Production+AI+Systems;GenAI+%7C+AWS;IoT+Analytics+%7C+MLOps;Turning+Data+Into+Business+Impact" />
 
 <br>
 
